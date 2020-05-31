@@ -40,7 +40,7 @@ yarn start
 
 # :rocket: Tecnologias
 
-- [React](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
 - [Axios](https://github.com/axios/axios)
 
 ---
