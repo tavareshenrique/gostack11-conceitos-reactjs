@@ -80,6 +80,6 @@ yarn start
 
 ---
 
-# :memo: License
+# :memo: Licença
 
-This project is licensed under the MIT license - see the archive [LICENSE.md](https://github.com/tavareshenrique/gostack11-conceitos-reactjs/blob/master/LICENSE.md) for details.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/tavareshenrique/gostack11-conceitos-reactjs/blob/master/LICENSE.md) para obter detalhes.
