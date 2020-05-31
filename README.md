@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Desafio sobre Conceitos do ReactJS aplicado no Bootcamp GoStack 11.
+  Desafio sobre Conceitos do ReactJS aplicados no Bootcamp GoStack 11 da Rocketseat.
 </p>
 
 ---
